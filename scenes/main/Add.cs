@@ -13,5 +13,6 @@ public partial class Add : Button
     {
         var item = _tree.CreateItem(_tree.GetSelected());
         // TODO
+        _container.AddCube(); // TEMPORARY
     }
 }
