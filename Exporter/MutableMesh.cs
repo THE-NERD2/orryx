@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Godot;
 
-namespace Orryx.Exporter.Mesh;
+namespace Orryx.Exporter;
 
 public class MutableMesh
 {
